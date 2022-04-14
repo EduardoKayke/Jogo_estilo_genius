@@ -1,4 +1,4 @@
-# Space Ship
+# Jogo de Memória Estilo Genius
 
 ## Sobre o projeto.
 O jogo de memória consiste em lembrar onde está a segunda parte do par encontrado. Esse projeto foi desenvolvido no Bootcamp da Digital Innovation One - Órbi Web Games Developer.
@@ -8,7 +8,7 @@ Data de conclusão: 15/04/2022
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
-function SpaceShip(Project) {
+function Genius(Project) {
     if (Front End) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     }
