@@ -18,7 +18,8 @@ function Genius(Project) {
 
 <div align="center">
 
-<img src="#" alt="Genius" width="250"/>
+<img src="Genius/img/genius1.png" alt="Genius" width="400"/>
+<img src="Genius/img/genius2.png" alt="Genius" width="400"/>
 
 </div>
 
