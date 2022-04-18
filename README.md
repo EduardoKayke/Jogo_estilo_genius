@@ -1,9 +1,9 @@
-# Jogo de Memória Estilo Genius
+# Jogo Estilo Genius
 
 ## Sobre o projeto.
-O jogo de memória consiste em lembrar onde está a segunda parte do par encontrado. Esse projeto foi desenvolvido no Bootcamp da Digital Innovation One - Órbi Web Games Developer.
+O jogo consiste em clicar nas cores certas que foram acessas. Esse projeto foi desenvolvido no Bootcamp da Digital Innovation One - Órbi Web Games Developer.
 
-Data de conclusão: 15/04/2022
+Data de conclusão: 18/04/2022
 
 ## Ferramentas e tecnologias usadas nesse projeto.
  
@@ -18,7 +18,7 @@ function Genius(Project) {
 
 <div align="center">
 
-<img src="#" alt="Jogo De Memória Estilo Genius" width="250"/>
+<img src="#" alt="Genius" width="250"/>
 
 </div>
 
